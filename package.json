@@ -33,5 +33,6 @@
     "webpack": "^5.98.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
-  }
+  },
+    "vercel-build": "npm run build && mv dist public"
 }
