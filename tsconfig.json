@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "sourceMap": true,
+    "strict": true,
+    "module": "ESNext",
+    "target": "ES6",
+    "moduleResolution": "Node",
+    "esModuleInterop": true
+  },
+  "include": ["src", "datamaps.d.ts", "firebaseConfig.ts"],
+  "exclude": ["node_modules"]
+}

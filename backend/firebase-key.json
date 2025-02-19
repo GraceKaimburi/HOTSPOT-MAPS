@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gender-hotspot-maps",
+  "private_key_id": "92a2bb75aaa1767d3ac03634ebaf1802f1c99db9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnfl/mNcrIDn9D\nqG5x2sGLWgBJFmrFq8dTiSDaQl71aNBrgs3z1dfgPwGiKeesgQEkEod2yIX0oGVC\nZ3gxS09i9sUTaBWxzDuMg9JXcQDZpk456A2gcaO5Y0CnRMv3Y6O+ckvaxYafUDdK\nN7obryXFBv/P2qmMvOhlzsVjciMKxuA/2YZfiZBJE+34rBSZiDgbwDxnjTBLE4Bw\n8xS/RnuojY4S9Ij7RYLLKnc/UrP5yapUJ47xa/qB0nDhCpfgBbRZ8UPz1TsMR6DK\nDPI+7Pg5PulkZwTM4pqYb8AbbwyAKXAkNPueGLZhi+nrtbALbnN23hMmJtlzNU3W\nOPKd7zYHAgMBAAECggEAODOM7Tu2h8tpg6PUL2r2T5KLDvsxJ5Pcxdh5CBOGNnWN\nnc2d2sgx8CJkI2xJOxZschSvlLlzTWK2p4H9kBjTkgL4nOrrgKXlg2BGJ6YY4W9O\nx1ponCIVjGLT8myAvkmWS5ShhE6MPg/WBZbOYXSzSTnwg2e9RaarmmG31Qca4AXR\nRnOOT5PAQ3nw/zTCmxEk4Ej7MY9m6nD+tIrJFNgLNnQ0Fjsy+Z31eZwBREMSokH7\nAmefTgcbxCIkilohUzGfjU8MZagbFSuUDSMslSMUjjbsV9VanGMsmNTw0zBcwYam\n75d5UM/Zeafeiqb8K4Ilb3LUeYVmiy9aZZU/1ZwktQKBgQDcKjQRKkxYUJ/InYQC\nsRyhCOxIdwp5nglSYMKvbQJ7V8QUxuuwNmuJINX5ekMgxBgAeuEYFkdYytuGtqvy\nhP4LSjFoJR+aSYcSwm8HfjGT7Ei4ocKv+DSL1/JuXmKgzVF2cAs/d5oYgpNHtFJL\nmKQsw58KlDxWQ3U99ojJMfj9ywKBgQDCwXmncGNo+ma3x59HrPh5kzj1rG+7ib0A\narrl1cDxGa15zd4e1bV+8mP20dVUHAvzc+gD5sAlRu3HrwtuYxGj2NL+otg9qQLc\nkN3Bff1xW9znmlNTTY4Stbz+8YIdpPZdnnVtqSlVlusshYrb17MpsFC5NN+q8N1Z\nzZz40JKhNQKBgQDKVwMpL22g0OA4mQNFEg9UtIWrh7QZ17OLgSAL56ybPSsZSUQ8\n25bzHTlqIgJlr7K7ZjNPVtJVeYJOCb53keCE8bf8lfm4a5D3Hbi68zCPWV3wScJK\nxVtNlrbY1mfgjzIqHolH2BzIH+FJyiDEF1HzTgnxyBC32yF6RASsm//RBwKBgA+O\nitwwIxC4p8nYXUXJcFOtyef97TLqzrkgzWschvv7VBsdsbd+1K+eRxPpMQQ19VJu\nGMNvBDw2DTpdJimcKkWPRVNnyKQsQvlBbSVOnhcXAm9RqYRG9qlR8RXgTsd1bOSP\nisvGrnGSy5hT1oK3GS2kUt5oddFeyh+pR/esGXpdAoGAOcc2nLLQXiHC4TYywOby\n9XIlaHK1wSU3wY/KLrDcNILkZC59MdBk7jbXKlTWbHOA697t9AtD5Z0G+6hz+PVL\ne/u/cFiIHFlZO1b28aywFTusRrh20Gn84MJS7uFW4qzhZr4Icg49Ry4dco+wBPhi\nqscOddAEwjLrBunOWjgZGgI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@gender-hotspot-maps.iam.gserviceaccount.com",
+  "client_id": "101289119924896852106",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40gender-hotspot-maps.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
