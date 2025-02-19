@@ -1,5 +1,9 @@
 {
-  "version": 2,
-  "buildCommand": "npm run build",
+  "builds": [
+    { "src": "dist/index.html", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.html" }
+  ],
   "outputDirectory": "dist"
 }
