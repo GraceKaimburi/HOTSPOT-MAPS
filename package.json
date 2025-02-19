@@ -4,7 +4,7 @@
   "description": "Interactive Datamaps visualization with D3.js",
   "main": "dist/bundle.js",
   "scripts": {
-    "build": "webpack --mode production",
+    "build": "webpack --mode production && mkdir -p dist && cp -r public/* dist/",
     "dev": "webpack serve --mode development",
     "start": "webpack serve --mode development"
   },
