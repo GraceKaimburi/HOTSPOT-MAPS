@@ -69,6 +69,9 @@ module.exports = {
     // Copy Leaflet images to output
     new CopyWebpackPlugin({
       patterns: [{ from: 'src/images', to: 'images' }]
-    })    
+    }),
+    new CopyWebpackPlugin({
+    patterns: [{ from: 'src/js', to: 'js' }] // Copy other files
+  })
   ],
 };
