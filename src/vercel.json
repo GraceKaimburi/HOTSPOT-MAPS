@@ -1,13 +1,6 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "webpack.config.js",
-      "use": "@vercel/static-build",
-      "config": { "distDir": "dist" }
-    }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
-  ]
+  "installCommand": "npm install --include=dev",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
 }
